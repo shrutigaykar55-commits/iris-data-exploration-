@@ -342,16 +342,3 @@ The analysis showed that the dataset had no missing values and that Petal Length
 
 Overall, this project helped me build a stronger foundation in **Exploratory Data Analysis, data visualization, and Python-based data analysis** as part of my Data Science internship.
 
----
-
-## Author
-
-**Shruti Gaykar**
-
-**Data Science Intern**
-
----
-
-## Project Status
-
-**Completed** ✅
